@@ -1,0 +1,24 @@
+a#logo {
+    /* font-family: "Lucida Console", Monaco, monospace ; */
+    color:#fff;
+    text-decoration:none;
+
+}
+#rms{
+text-align:center;
+text-decoration:underline;
+font-size:30px;
+
+}
+a{
+color:#ff0;
+}
+
+a:visited{
+color:#cc0;
+}
+
+body{
+	background:url(../img/spin.gif)bottom left no-repeat, url(../img/wew.png)center no-repeat,url("../img/walkin skele.gif")right bottom no-repeat, url(../img/fire2.gif) bottom center repeat-x, url(../img/star.gif);
+	color:#fff;
+}
